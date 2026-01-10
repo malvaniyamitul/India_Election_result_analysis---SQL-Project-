@@ -202,7 +202,7 @@ Learned how to document and present analysis professionally
 
    Malvaniya Mitul
 📌 Aspiring Data Analyst
-💡 Skills: SQL | Excel | Power BI | Python
+💡 Skills: SQL | Excel | Power BI | Python | Tebleau
 
 
 
