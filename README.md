@@ -200,8 +200,8 @@ Learned how to document and present analysis professionally
 
   👤 Author
 
-   Malvaniya Mitul
-📌 Aspiring Data Analyst
+   Malvaniya Mitul                     
+📌 Aspiring Data Analyst               
 💡 Skills: SQL | Excel | Power BI | Python | Tebleau
 
 
